@@ -1,0 +1,15 @@
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\bin\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.exe
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\bin\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.deps.json
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\bin\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.runtimeconfig.json
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\bin\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.dll
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\bin\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.pdb
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.AssemblyInfoInputs.cache
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.AssemblyInfo.cs
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.csproj.CoreCompileInputs.cache
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.sourcelink.json
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.dll
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\refint\DesafioArrayInverterLetrasDaFrase.dll
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.pdb
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\DesafioArrayInverterLetrasDaFrase.genruntimeconfig.cache
+F:\Projetos Csharp\DesafioArrayInverterLetrasDaFrase\obj\Debug\net8.0\ref\DesafioArrayInverterLetrasDaFrase.dll
